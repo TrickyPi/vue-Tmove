@@ -21,4 +21,4 @@ Tmove.install = function (Vue, options) {
         }
     })
 }
-export default Tmove
+module.exports = Tmove
