@@ -1,0 +1,1 @@
+export { Tmove } from "./directive/VueTmove"
